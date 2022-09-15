@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/adarshpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshpy" height="30" width="40" /></a>
 <a href="https://instagram.com/adarshpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarshpy" height="30" width="40" /></a>
 <a href="https://medium.com/@adarshpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adarshpy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/adarshpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adarshpy" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/adarshpnd71" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adarshpnd71" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/adarsh.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adarsh.in" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adarshpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarshpy" height="30" width="40" /></a>

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://adarshpnd71.github.io/my-portfolio/](https://adarshpnd71.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://adarshpy.com/](https://adarshpy.com/)
 
 - 💬 Ask me about **tech**
 
@@ -39,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh1pandey&show_icons=true&locale=en&layout=compact" alt="adarsh1pandey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshpnd71&show_icons=true&locale=en" alt="adarshpnd71" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh1pandey&show_icons=true&locale=en" alt="adarsh1pandey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh1pandey&" alt="adarsh1pandey" /></p>
